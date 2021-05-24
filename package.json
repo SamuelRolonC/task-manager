@@ -1,0 +1,16 @@
+{
+  "name": "task-manager",
+  "version": "0.1.0",
+  "description": "Personalized app for record tasks and time spent in it.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samuel Rolon Cicciari",
+  "license": "ISC",
+  "dependencies": {
+    "luxon": "^1.27.0",
+    "vue-datetime": "^1.0.0-beta.14",
+    "weekstart": "^1.1.0"
+  }
+}
